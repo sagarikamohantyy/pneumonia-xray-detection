@@ -1,0 +1,6 @@
+Threshold (chosen on validation): 0.19
+Test AUC-ROC: 0.935
+Test Sensitivity: 0.979
+Test Specificity: 0.547
+Test Accuracy: 0.817
+Test confusion matrix: TN=128 FP=106 FN=8 TP=382
